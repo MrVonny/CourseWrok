@@ -1,0 +1,4 @@
+N:\Users\boraf\CLionProjects\Plot4\Plot\Release\Plot.vcxproj.AssemblyReference.cache
+N:\Users\boraf\CLionProjects\Plot4\Plot\Release\Plot.GraphProperties.resources
+N:\Users\boraf\CLionProjects\Plot4\Plot\Release\Plot.MainForm.resources
+N:\Users\boraf\CLionProjects\Plot4\Plot\Release\Plot.vcxproj.GenerateResource.cache
